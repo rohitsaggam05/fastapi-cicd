@@ -16,3 +16,6 @@ This project implements a full CI/CD pipeline using:
 - Health check verification after deployment
 
 This README was added to trigger the CI/CD workflow.
+
+Trigger deploy workflow
+
